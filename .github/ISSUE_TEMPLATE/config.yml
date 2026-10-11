@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/oddforms-design/MoneyBug/discussions
+    about: How something works, compatibility, or general feedback.
+  - name: Email support
+    url: mailto:support@oddforms.com
+    about: If you'd rather not use GitHub.
