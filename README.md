@@ -1,6 +1,6 @@
 <h1>MoneyBug Support</h1>
 
-<p>MoneyBug tracks your time and turns it into estimates and invoices, on your Mac. This page is where to ask a question, report a problem or suggest a feature. MoneyBug is made by one person, so thank you for your patience.</p>
+<p>MoneyBug tracks your time and turns it into estimates and invoices, on your Mac. This page is where to ask a question, report a problem or suggest a feature.</p>
 
 <h2>Ask a Question</h2>
 <p>Not sure how something works, or whether it's a bug? Ask in Discussions. Usage questions, compatibility concerns and general feedback are all welcome, and your question may help the next person.</p>
@@ -16,7 +16,7 @@
 <ul>
   <li>Your macOS version and MoneyBug version (MoneyBug → About MoneyBug)</li>
   <li>What you did, what you expected, and what happened instead</li>
-  <li>Where in the app it happened: a job, an invoice or estimate, the template editor, the menu bar, sync</li>
+  <li>Where in the app it happened: a job, an invoice or estimate, the invoice designer, the menu bar, sync</li>
   <li>Screenshots, if relevant</li>
 </ul>
 
