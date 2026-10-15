@@ -1,6 +1,8 @@
 <h1>MoneyBug Support</h1>
 
-<p>MoneyBug tracks your time and turns it into estimates and invoices, on your Mac. This page is where to ask a question, report a problem or suggest a feature.</p>
+<p>MoneyBug is a time-tracking and invoicing app for macOS.</p>
+
+<p>This page is where to ask a question, report a problem or suggest a feature.</p>
 
 <h2>Ask a Question</h2>
 <p>Not sure how something works, or whether it's a bug? Ask in Discussions. Usage questions, compatibility concerns and general feedback are all welcome, and your question may help the next person.</p>
