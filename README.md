@@ -30,6 +30,9 @@
 
 <p><a href="https://github.com/oddforms-design/MoneyBug/issues/new?template=feature_request.md">Request a feature</a></p>
 
+<h2>What's New</h2>
+<p>Every version's changes are in the <a href="https://github.com/oddforms-design/MoneyBug/blob/main/CHANGELOG.md">changelog</a>.</p>
+
 <h2>Security</h2>
 
 <p>If you think you've found a security problem, please report it privately rather than in a public issue: see <a href="SECURITY.md">Security</a>.</p>
