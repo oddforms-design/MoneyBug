@@ -19,7 +19,7 @@ labels: bug
 3.
 
 **Where in the app**
-<!-- A job, an invoice or estimate, the template editor, the menu bar, sync… -->
+<!-- A job, an invoice or estimate, the Invoice Designer, the menu bar, sync… -->
 
 
 **Versions**

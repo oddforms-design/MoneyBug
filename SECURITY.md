@@ -17,7 +17,7 @@
 
 <h2>What's covered</h2>
 
-<p>The MoneyBug app for Mac, including its local library, backups and their encryption, Sync with iCloud, and the app lock.</p>
+<p>The MoneyBug app for Mac, including its local library, backups and their encryption, Encrypted Sync with iCloud, and the app lock.</p>
 
 <h2>What to expect</h2>
 
