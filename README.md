@@ -24,6 +24,8 @@
 
 <p>Issue reports are public. Invoices and job lists hold your clients' details, so please blur or crop out names, addresses, amounts and anything else private before posting a screenshot. Never attach a backup file.</p>
 
+<p>If it's a security problem, such as a way around the app lock, please report it privately instead: see <a href="SECURITY.md">Security</a>.</p>
+
 <h2>Request a Feature</h2>
 
 <p>MoneyBug is kept deliberately small, so it stays quick to learn and easy to use. Every request is read, but not every one will make it into the app. <a href="FEATURE-REQUESTS.md">How feature requests work</a> explains why, and what makes a request most useful.</p>
@@ -32,10 +34,6 @@
 
 <h2>What's New</h2>
 <p>Every version's changes are in the <a href="https://github.com/oddforms-design/MoneyBug/blob/main/CHANGELOG.md">changelog</a>.</p>
-
-<h2>Security</h2>
-
-<p>If you think you've found a security problem, please report it privately rather than in a public issue: see <a href="SECURITY.md">Security</a>.</p>
 
 <h2>Email</h2>
 
