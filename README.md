@@ -24,7 +24,7 @@
 
 <p>Issue reports are public. Invoices and job lists hold your clients' details, so please blur or crop out names, addresses, amounts and anything else private before posting a screenshot. Never attach a backup file.</p>
 
-<p>If it's a security problem, such as a way around the app lock, please report it privately instead: see <a href="SECURITY.md">Security</a>.</p>
+<p>If it's a security problem, please report it privately instead: see <a href="SECURITY.md">Security</a>.</p>
 
 <h2>Request a Feature</h2>
 
