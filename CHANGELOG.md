@@ -32,7 +32,7 @@ What changed in each version of MoneyBug, newest first. Issue numbers link to th
 
 ## 1.0
 
-The first version, on the public TestFlight since October 15, 2026: time tracking and invoicing, made for the Mac.
+The first version, released November 11, 2026: time tracking and invoicing, made for the Mac.
 
 - A timer on every task, from the job or the menu bar, with the rounding you choose and a question when you come back from being away.
 - Fixed costs, expenses, mileage and discounts beside your time, grouped into sections.
