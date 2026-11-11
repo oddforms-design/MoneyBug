@@ -4,12 +4,13 @@ What changed in each version of MoneyBug, newest first. Issue numbers link to th
 
 ## 1.0.1 (TestFlight)
 
+- A new look, rebranded to fit in with Liquid Glass:
+  - A new app icon.
+  - An accent color in Settings → General: Blue, Mint, Brown or Graphite, each with its own shade in dark mode.
+  - Client colors refreshed to match. A color you picked yourself stays as it is.
+  - Liquid Glass on the controls that float over your documents and lists, and on macOS 27, on the sidebar's buttons and Dashboard tile.
 - Quantities for line items: fixed costs, expenses and credits take a quantity and a unit price, with optional Qty and Rate columns in the Invoice Designer ([#8](https://github.com/oddforms-design/MoneyBug/issues/8)).
 - "Updating Your Library", with a count, the first time an update syncs, instead of a sync that seemed stuck ([#2](https://github.com/oddforms-design/MoneyBug/issues/2)).
-- A new app icon.
-- An accent color in Settings → General: Blue, Mint, Brown or Graphite, each with its own shade for dark mode.
-- Liquid Glass on the controls that float over your documents and lists, and on macOS 27, on the sidebar's buttons and Dashboard tile.
-- Refreshed client colors to go with the new icon and accent colors. A color you picked yourself stays as it is.
 - Time worked on the Dashboard and client pages counts your time as rounded, matching the task rows.
 - Revise Invoice and Revise Estimate in the ⋯ menu, and Discard Revision names the revision it discards.
 - Un-finalize right from a finalized invoice's fields, beside starting a revision.
