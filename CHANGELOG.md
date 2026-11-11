@@ -6,6 +6,11 @@ What changed in each version of MoneyBug, newest first. Issue numbers link to th
 
 - Quantities for line items: fixed costs, expenses and credits take a quantity and a unit price, with optional Qty and Rate columns in the Invoice Designer ([#8](https://github.com/oddforms-design/MoneyBug/issues/8)).
 - "Updating Your Library", with a count, the first time an update syncs, instead of a sync that seemed stuck ([#2](https://github.com/oddforms-design/MoneyBug/issues/2)).
+- A new app icon.
+- An accent color in Settings → General: Blue, Mint, Brown or Graphite, each with its own shade for dark mode.
+- Liquid Glass on the controls that float over your documents and lists, and on macOS 27, on the sidebar's buttons and Dashboard tile.
+- Refreshed client colors to go with the new icon and accent colors. A color you picked yourself stays as it is.
+- Time worked on the Dashboard and client pages counts your time as rounded, matching the task rows.
 - Revise Invoice and Revise Estimate in the ⋯ menu, and Discard Revision names the revision it discards.
 - Un-finalize right from a finalized invoice's fields, beside starting a revision.
 - Balance Due in the job's header once a payment is recorded.
@@ -21,6 +26,7 @@ What changed in each version of MoneyBug, newest first. Issue numbers link to th
   - In the Invoice Designer, a second details box didn't follow the first one's switches.
   - Settings could open with empty tabs after MoneyBug was locked.
   - Three-letter client initials wrapped onto two lines.
+  - The Sample Library could show an open job with a negative balance.
   - Two rare sync cases: an item moved into a section deleted on another Mac, and updating again after going back to an older version.
 
 ## 1.0
