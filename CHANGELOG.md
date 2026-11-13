@@ -2,7 +2,9 @@
 
 What changed in each version of MoneyBug, newest first. Issue numbers link to this repository's [issues](https://github.com/oddforms-design/MoneyBug/issues).
 
-## 1.0.1 (TestFlight)
+## 1.0.1
+
+Released November 13, 2026: a new look, quantities for line items, and a long list of fixes.
 
 - A new look, rebranded to fit in with Liquid Glass:
   - A new app icon.
